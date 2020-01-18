@@ -1,0 +1,56 @@
+
+<records>
+  <rec resultID="1">
+    <header shortDbName="cms" longDbName="Communication Source" uiTerm="85367838">
+      <controlInfo>
+        <bkinfo />
+        <jinfo>
+          <jtl>Journal of Marketing Research (JMR)</jtl>
+          <issn>00222437</issn>
+        </jinfo>
+        <pubinfo>
+          <dt year="2013" month="02" day="01">Feb2013</dt>
+          <vid>50</vid>
+          <iid>1</iid>
+        </pubinfo>
+        <artinfo>
+          <ui type="doi">10.1509/jmr.10.0416</ui>
+          <ppf>24</ppf>
+          <ppct>20</ppct>
+          <formats>
+            <fmt type="PDF" size="1001KB" />
+          </formats>
+          <tig>
+            <atl>Why We Do What We Do: A Model of Activity Consumption.</atl>
+          </tig>
+          <aug>
+            <au>LAN LUO</au>
+            <au>RATCHFOR, BRIAN T.</au>
+            <au>BOTAO YAN</au>
+            <affil>Assistant Professor of Marketing, Marshall School of Business, University of Southern California</affil>
+            <affil>Charles and Nancy Davidson Distinguished Professor of Marketing, School of Management, University of Texas, Dallas</affil>
+          </aug>
+          <sug>
+            <subj type="unclass">Mathematical models</subj>
+            <subj type="unclass">Time management</subj>
+            <subj type="unclass">Consumption (Economics)</subj>
+            <subj type="unclass">Leisure research</subj>
+            <subj type="unclass">Expertise</subj>
+            <subj type="unclass">Consumer behavior research</subj>
+            <subj type="unclass">Consumer research</subj>
+            <subj type="unclass">Economics</subj>
+          </sug>
+          <ab>Consumers' time allocation decisions among various activities are fundamental to marketing research and consumer behavior. The authors construct a dynamic panel data model to examine how consumers allocate time to a portfolio of leisure activities over time. The data comprise a longitudinal panel in which the authors tracked 287 U.S. consumers' time use, consumption motives, and expertise measures on a weekly basis from January to June 2011. This is the first empirical research to examine the underlying mechanisms that guide the dynamics of an individual's activity consumption. The authors demonstrate that expertise contributes to the perceived benefits of an activity, which in turn leads to high value associated with it. Expertise also directly influences value obtained from an activity. This expertise, in turn, is acquired over time through past consumption. This finding implies a chain from expertise to value to time use and back to expertise, which may lead consumers to form a lifestyle in which they specialize in a subset of activities they know well. Consequently, expertise can be regarded as a key variable that explains lifestyle choices.</ab>
+          <pubtype>Academic Journal</pubtype>
+          <doctype>Article</doctype>
+        </artinfo>
+        <language code="eng">English</language>
+      </controlInfo>
+      <displayInfo>
+        <pLink>
+          <url>http://search.ebscohost.com/login.aspx?direct=true&amp;db=cms&amp;AN=85367838&amp;site=ehost-live</url>
+        </pLink>
+      </displayInfo>
+    </header>
+  </rec>
+</records>
