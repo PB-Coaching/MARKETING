@@ -1,7 +1,7 @@
 # Fragen zur Einleitung
 
+- die Geschäftsmodelle der Sharing Economy haben Erfolg
 - Wieso ist das Thema interessant?
-  - die Geschäftsmodelle der Sharing Economy haben Erfolg
   - mittlerweile haben einige Unternehmen weltweite *Name Recognition* (Uber, AirBnb)
   - bisherige Systeme der Wertschöpfung, Customer Journey sowie Unternehmensstrukturen werden revolutioniert
 
